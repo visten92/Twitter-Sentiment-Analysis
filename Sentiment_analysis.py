@@ -13,7 +13,7 @@ auth = tweepy.OAuth1UserHandler(
 )
 
 # Search tweets by keyword until the desired date
-keyword = "Stock market"
+keyword = "Economy"
 date = '2023-01-17'
 api = tweepy.API(auth)
 tweets = api.search_tweets(q = keyword, tweet_mode="extended", until=date)
