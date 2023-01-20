@@ -2,3 +2,8 @@
 Sentiment Analysis of tweets using Twitter API and RoBERTa model
 
 ![cover](https://user-images.githubusercontent.com/15322711/213688023-eb1ab3c5-c237-4abe-b1bb-a1bb52d5ab11.jpg)
+
+The Twitter API is a set of programming interfaces that allows developers to access the functionality of the Twitter platform. It enables developers to integrate Twitter functionality into their own applications, such as posting tweets, retrieving tweets, and searching for tweets. The API also provides access to other features of Twitter, such as user profiles, lists, and direct messages. The API is available in several languages and can be accessed using RESTful or streaming methods. With the use of appropriate access credentials, developers can make requests to the API and receive data in various formats including JSON and XML.
+
+One popular use of the Twitter API is for sentiment analysis, which involves analyzing tweets to determine the sentiment or attitude expressed in them. This can be used for various purposes such as brand monitoring, customer service, and market research. Developers can use the Twitter API to retrieve a large number of tweets containing specific keywords or hashtags, and then use natural language processing techniques to analyze the sentiment of the tweets. Sentiment analysis can be performed on various levels such as the overall sentiment of a tweet, the sentiment of specific entities or topics mentioned in the tweet, and the sentiment of specific phrases or words.
+
